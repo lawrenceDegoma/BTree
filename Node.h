@@ -18,5 +18,4 @@ struct Node {
 };
 
 #include "Node.cpp"
-
 #endif //BTREES_NODE_H

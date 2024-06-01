@@ -4,6 +4,7 @@
 
 #ifndef BTREES_BTREE_ARRAY_FUNCTIONS_H
 #define BTREES_BTREE_ARRAY_FUNCTIONS_H
+#include "BTree_Array_Functions.h"
 
 template <class T>
 void split(T data1[], int& n1, T data2[], int& n2){

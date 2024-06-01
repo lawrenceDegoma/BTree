@@ -2,6 +2,8 @@
 // Created by Lawrence Degoma on 5/30/24.
 //
 
+#ifndef BTREES_NODE_CPP
+#define BTREES_NODE_CPP
 #include "Node.h"
 
 template <typename T>
@@ -18,3 +20,5 @@ Node<T>::~Node(){
     delete[] keys;
     delete[] children;
 }
+
+#endif
