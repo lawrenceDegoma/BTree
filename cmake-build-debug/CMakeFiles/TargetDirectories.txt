@@ -1,0 +1,3 @@
+/Users/lawrence/CLionProjects/BTrees/cmake-build-debug/CMakeFiles/BTrees.dir
+/Users/lawrence/CLionProjects/BTrees/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lawrence/CLionProjects/BTrees/cmake-build-debug/CMakeFiles/rebuild_cache.dir
